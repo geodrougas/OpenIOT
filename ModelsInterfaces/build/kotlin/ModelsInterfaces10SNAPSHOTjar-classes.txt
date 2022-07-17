@@ -1,0 +1,1 @@
+E:\Projects\Kotlin\Nightech\OpenIOT\ModelsInterfaces\build\classes\kotlin\main\gr\nightech\openiot\modelsinterfaces\UserModel.class
